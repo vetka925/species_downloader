@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 python3 -m species_downloader -s "Cygnus columbianus,Cygnus olor" -l 10 -sd "./downloads" -w 10
 ```
 
-###Download species using shell and -f parameter
+### Download species using shell and -f parameter
 
 Firstly, you need a text file with species names separated with a new line '\n'.
 

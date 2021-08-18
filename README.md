@@ -11,7 +11,7 @@ for training Deep Learning models.
 
 ## Installing / Getting started
 
-###Download species using shell and -s parameter
+### Download species using shell and -s parameter
 
 ```shell
 git clone https://github.com/vetka925/species_downloader.git
@@ -40,8 +40,8 @@ python3 -m species_downloader -f "test.txt" -l 10 -sd "./downloads" -w 10
 It downloads 10 images for *Cygnus columbianus*  in ./downloads/Cygnus columbianus and 10 for *Cygnus olor* in  ./downloads/Cygnus olor.
 
 
-###Download with SpeciesDownloader class
-Example in [Jupyter Notebook]().
+### Download with SpeciesDownloader class
+Example in [Jupyter Notebook](https://github.com/vetka925/species_downloader/blob/master/example.ipynb).
 
 ## Features
 * Download photos of particular species.

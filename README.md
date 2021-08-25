@@ -48,6 +48,7 @@ Example in [Jupyter Notebook](https://github.com/vetka925/species_downloader/blo
 * Download photos with any length list of species.
 * You need to specify the only number of photos that you want. Photos with the best possible quality will be downloaded.
 * Shell script or Python module usage.
+* Multithreading downloading
 
 
 ## Links
